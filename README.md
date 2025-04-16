@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhimonw&color=blue)
 ![Followers](https://img.shields.io/github/followers/Bhimonw?label=Follow&style=social)
 
-🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.  
+🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.\
 💡 I enjoy exploring how tech can offer innovative solutions to challenges in everyday life, and I'm always curious to learn more.
 
 ---
@@ -19,25 +19,37 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages:** Java, Python, JavaScript, PHP  
-- 🔧 **Frameworks & Libraries:** Laravel, React.js, Vue.js, Flutter  
-- ⚙️ **Tools:** Postman, Git, Visual Studio Code, Google Colab  
+- 💻 **Languages:** Java, Python, JavaScript, PHP
+- 🔧 **Frameworks & Libraries:** Laravel, React.js, Vue.js, Flutter
+- ⚙️ **Tools:** Postman, Git, Visual Studio Code, Google Colab
 - 📦 **Currently Exploring:** Express.js, AI/ML libraries
 
 ---
 
 ### 💼 Projects
 
-#### 🛠️ **Akudihatinya** *(Aplikasi Diabetes Mellitus dan Hipertensi Terlayani)*  
+#### 🔧 **Akudihatinya** *(Aplikasi Diabetes Mellitus dan Hipertensi Terlayani)*
+
 A web-based reporting system built for **Puskesmas and the Health Department of Kabupaten Banjar** to streamline the management of **Hypertension (HT)** and **Diabetes Mellitus (DM)** patient data.
 
-- 🧩 **Problem Solved:** Manual reporting was inefficient and time-consuming. This app enables real-time data entry, automatic statistics generation, and downloadable reports.
+- 🧹 **Problem Solved:** Manual reporting was inefficient and time-consuming. This app enables real-time data entry, automatic statistics generation, and downloadable reports.
 - 👥 **Team-Based Project:** Developed collaboratively during an internship. I worked on the **backend** using **Laravel**, while the frontend was developed using **Vue.js**.
-- 🔧 **Tools Used:** Laravel, Git, Postman  
-- 🚀 **Status:** Finalizing features in preparation for deployment  
+- ⚙️ **Tools Used:** Laravel, Git, Postman
+- 🚀 **Status:** Finalizing features in preparation for deployment
 - 📚 **Lessons Learned:** Backend system design, working with APIs, app versioning, Git collaboration, and systematic teamwork in real-world scenarios.
 
-> 🗺️ *Custom-built for the Banjar Regency to help local health authorities efficiently manage medical report data.*
+> 🗽️ *Custom-built for the Banjar Regency to help local health authorities efficiently manage medical report data.*
+
+<!--
+![App Screenshot](https://your-image-link.com/demo.png)
+[🎬 Watch Demo Video](https://youtube.com/your-demo)
+-->
+
+---
+
+### 🏅 Certificates
+
+*Coming soon...*
 
 ---
 
@@ -68,10 +80,11 @@ A web-based reporting system built for **Puskesmas and the Health Department of 
 
 ---
 
-### 📫 Let's Connect
+### 📢 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://your-link.com)  
 [![Email](https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
-<!-- Tambahkan link ke Notion, Instagram, Website, dll -->
+[🧠 My Notion Portfolio](https://notion.so/your-link)
 
 ---
+
