@@ -28,7 +28,7 @@
 
 ### 💼 Projects
 
-#### 🛠️ **Akudihatinya** *(Aplikasi Diabetes Melitus dan Hipertensi Terlayani)*  
+#### 🛠️ **Akudihatinya** *(Aplikasi Diabetes Mellitus dan Hipertensi Terlayani)*  
 A web-based reporting system built for **Puskesmas and the Health Department of Kabupaten Banjar** to streamline the management of **Hypertension (HT)** and **Diabetes Mellitus (DM)** patient data.
 
 - 🧩 **Problem Solved:** Manual reporting was inefficient and time-consuming. This app enables real-time data entry, automatic statistics generation, and downloadable reports.
