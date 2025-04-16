@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Bhimonw
 
+![Profile Views](https://komarev.com/ghpvc/?username=Bhimonw&color=blue)
+![Followers](https://img.shields.io/github/followers/Bhimonw?label=Follow&style=social)
+
 🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.  
 💡 I enjoy exploring how tech can offer innovative solutions to challenges in everyday life, and I'm always curious to learn more.
 
