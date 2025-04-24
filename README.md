@@ -37,20 +37,22 @@ A web-based reporting system built for **Puskesmas and the Health Department of 
 
 > 🗺️ *Custom-built for the Banjar Regency to help local health authorities efficiently manage medical report data.*
 
-#### 🛠️ **LAPOR** *(Layanan Aspirasi Perbaikan dan Observasi Ruas Jalan)*
+#### 🚧 **LAPOR (Layanan Aspirasi Perbaikan dan Observasi Ruas Jalan)**
 
-A simple yet complete reporting application to help communities and local governments identify and fix damaged roads.
+A project created to assist citizens in reporting road damages using a MERN-based stack (MongoDB, Express.js, React, Node.js) integrated with a machine learning module.
 
-- 🚧 **Problem Solved:** Many road damages go unreported. This app allows users to report issues, helping the government respond faster.
-- 🛠️ **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 🧑‍💻 **Your Role:** Fullstack developer (learning React and Express.js through this project)
-- 📦 **Status:** Version 0 (v0) in progress – focused on building authentication and full CRUD features
-- 🎯 **Learning Outcome:** Improved skills in building REST APIs, MongoDB integration, and frontend-backend interaction
+- 🚀 **Goal:** Learn and apply React and Express.js in a real-world context
+- 💡 **Features:** Authentication, CRUD reporting, image-based road damage detection
+- 👨‍💻 **Role:** Fullstack Developer (focus on backend and ML integration)
+- 🛠 **Tech Used:** React, Express.js, MongoDB, Python, TensorFlow (planned)
+- 🧠 **Current Status:** Core features in progress
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhimonw&show_icons=true&theme=default)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimonw&layout=compact&theme=default)\
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhimonw)
 
 ---
