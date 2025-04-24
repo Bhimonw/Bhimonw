@@ -85,10 +85,8 @@ Academic research in developing AI to detect skin lesions for MPOX across differ
 ---
 
 ### 📊 GitHub & Coding Stats
-
-
-
-
+![Bhimonw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhimonw&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimonw&layout=compact&theme=default)
 
 ---
 
@@ -110,10 +108,9 @@ Academic research in developing AI to detect skin lesions for MPOX across differ
 
 ### 📫 Let's Connect
 
-- 📎 Personal Website: *(Coming Soon)*
-- 💼 LinkedIn: *(To be added)*
-- 🐦 Twitter: *(To be added)*
-- 📧 Email: *(To be added)*
+- 💼 LinkedIn: [Bhimo Noorasty Whibhisono](https://www.linkedin.com/in/bhimo-noorasty-whibhisono-4a4a18361)
+- 📬 Email: [bhimonoorastywb@gmail.com](mailto:bhimonoorastywb@gmail.com)
+- 🧠 Notion: [Coming Soon](#)
 
 ---
 
