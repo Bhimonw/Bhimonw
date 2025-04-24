@@ -51,7 +51,7 @@ A simple yet complete reporting application to help communities and local govern
 
 ### 📊 GitHub Stats
 
-\
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhimonw)
 
 ---
 
