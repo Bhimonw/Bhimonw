@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bhimonw
 
-🎓 I'm a Computer Science student who's passionate about programming and solving real-world problems through technology.
-💡 I enjoy exploring innovative solutions to challenges in everyday life, especially through tech.
+🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.\
+💡 I enjoy exploring how tech can offer innovative solutions to challenges in everyday life, and I'm always curious to learn more.
 
 ---
 
@@ -37,29 +37,21 @@ A web-based reporting system built for **Puskesmas and the Health Department of 
 
 > 🗺️ *Custom-built for the Banjar Regency to help local health authorities efficiently manage medical report data.*
 
-#### 🚧 **LAPOR (Layanan Aspirasi Perbaikan dan Observasi Ruas Jalan)** *(College Project)*
+#### 🛠️ **LAPOR** *(Layanan Aspirasi Perbaikan dan Observasi Ruas Jalan)*
 
-A MERN-stack based app for reporting damaged roads in Indonesia. Combines image-based machine learning with user-friendly features to help governments and citizens act faster.
+A simple yet complete reporting application to help communities and local governments identify and fix damaged roads.
 
-- 🌍 **Stack:** React.js (frontend), Express.js + MongoDB (backend), Python (ML), Admin Panel
-- 💡 **Purpose:** My learning project to explore full-stack development and integrate machine learning
-- 🚧 **Status:** In progress
+- 🚧 **Problem Solved:** Many road damages go unreported. This app allows users to report issues, helping the government respond faster.
+- 🛠️ **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🧑‍💻 **Your Role:** Fullstack developer (learning React and Express.js through this project)
+- 📦 **Status:** Version 0 (v0) in progress – focused on building authentication and full CRUD features
+- 🎯 **Learning Outcome:** Improved skills in building REST APIs, MongoDB integration, and frontend-backend interaction
 
 ---
 
 ### 📊 GitHub Stats
 
-![Bhimonw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhimonw&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimonw&layout=compact&theme=tokyonight)
-
----
-
-### ⏱️ WakaTime Stats *(Coding Time)*
-
-<!-- You can uncomment the below once your WakaTime is active -->
-<!--
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
--->
+\
 
 ---
 
@@ -72,22 +64,15 @@ A MERN-stack based app for reporting damaged roads in Indonesia. Combines image-
 
 ---
 
-### 🗂️ Certificates
-
-*Coming soon...*
-
----
-
-### 📫 Let's Connect
-
-- 🌐 Notion: [link here]
-- 💼 LinkedIn: [link here]
-- 📧 Email: [link here]
-
----
-
 ### 💬 Quote I Live By
 
 > **"Jika ada yang mudah, kenapa harus sulit?"**
 
 ---
+
+### 📫 Let's Connect
+
+\
+
+---
+
