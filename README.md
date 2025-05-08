@@ -42,10 +42,13 @@ A web-based reporting system built for **Puskesmas and the Health Department of 
 ### 📊 GitHub & Coding Stats
 
 ![Bhimonw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhimonw&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimonw&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimonw&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhimonw&theme=radical)](https://git.io/streak-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhimonw&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- For WakaTime Stats to work, make sure your WakaTime profile is public and username matches -->
+<!--
 [![Bhimonw's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhimonw&theme=radical)](https://wakatime.com/@Bhimonw)
+-->
 
 ---
 
