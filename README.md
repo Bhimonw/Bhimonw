@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bhimonw
 
-🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.
-💡 I enjoy exploring how tech can offer innovative solutions to challenges in everyday life, and I'm always curious to learn more.
+* 🎓 I'm a Computer Science student who is passionate about programming and solving real-world problems through technology.
+* 💡 I enjoy exploring how tech can offer innovative solutions to challenges in everyday life, and I'm always curious to learn more.
 
 ---
 
