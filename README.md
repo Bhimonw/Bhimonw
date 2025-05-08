@@ -8,7 +8,7 @@
 ### 🌱 Currently Learning
 
 * 📊 **Data Science**
-* 🌐 **Web Programming** (React.js, Laravel, JavaScript)
+* 🌐 **Web Programming** (React.js, Laravel, Node.js)
 * 📱 **Mobile Development** (Flutter)
 * 🤖 **Artificial Intelligence & Machine Learning**
 
