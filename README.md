@@ -46,10 +46,6 @@ A web-based reporting system built for **Puskesmas and the Health Department of 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhimonw&theme=radical)](https://git.io/streak-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhimonw&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhimonw&style=flat-square&color=blue)  
-![Followers](https://img.shields.io/github/followers/Bhimonw?label=Followers&style=flat-square)  
-![Stars](https://img.shields.io/github/stars/Bhimonw?label=Stars&style=flat-square)  
-
 ---
 
 ### 🧠 Interests
