@@ -61,7 +61,7 @@ Mostly crafting with **Laravel**, **React**, and **Python**, and always hungry t
 ---
 
 ### ✍️ Custom Dev Quote
-> *"Build with curiosity, break with intention, and learn with joy."* — Chip 🧠
+> *"Jika ada yang mudah, kenapa harus susah?"* — Bhimo
 
 ---
 
