@@ -60,7 +60,7 @@ Mostly crafting with **Laravel**, **React**, and **Python**, and always hungry t
 
 ---
 
-### ✍️ Custom Dev Quote
+### ✍️ Quote
 > *"Jika ada yang mudah, kenapa harus susah?"* — Bhimo
 
 ---
