@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Bhimo — a curious builder who loves to **Code, Learn, Repeat**.  
 Exploring web development, mobile apps, and AI to build real-world impact.  
-Mostly crafting with **Laravel**, **React**, and **Python**, and always hungry to explore more.
+Mostly crafting with **Laravel**, **Node.js**, and **Python**, and always hungry to explore more.
 
 ---
 
